@@ -1,0 +1,18 @@
+.guess_color {
+  width: 300px;
+  height: 300px;
+}
+
+.button_group {
+  margin: 10px 0;
+}
+
+.correct {
+  color: green;
+  font: inherit;
+}
+
+.wrong {
+  color: red;
+  font: inherit;
+}
